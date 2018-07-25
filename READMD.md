@@ -1,2 +1,0 @@
-# Lerna Electron Builder
-
