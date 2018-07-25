@@ -1,0 +1,9 @@
+{
+  "name": "moduleA",
+  "version": "1.0.0",
+  "main": "main.js",
+  "private": true,
+  "dependencies": {
+    "moduleF": "github:brcps12/hoisted-electron-builder#moduleF1.0"
+  }
+}
