@@ -1,0 +1,10 @@
+{
+  "productName": "electron-different-versions",
+  "directories": {
+    "output": "../../app-builds"
+  },
+  "asar": true,
+  "files": [
+    "src/**/*"
+  ]
+}
